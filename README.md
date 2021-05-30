@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Phuong
+#### I am react-native developer
+![I am react-native developer](https://i0.wp.com/everyday.codes/wp-content/uploads/2019/06/react-native-1024x631-1024x631.png?resize=680%2C419&ssl=1)
+Some information about me:
+- Graduated from FPT University  with Bachelor degree in software engineering
 
-<!--
-**phaoga54/phaoga54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Programming languages:
+  + JavaScript ( 3 years )
+  + Java ( 2 years )
+- Working Experiences: 
+  + 2 years outsourcing in Japan
+  + 2 years outsourcing in VietNam
+- Familiar Framework: 
+  + React Native
+  + Spring boot
+  + Angular 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
